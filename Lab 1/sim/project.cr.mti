@@ -1,0 +1,8 @@
+{C:/Mac/Home/Desktop/Verilog/Lab 1/hello_world.v} {1 {vlog -work work {C:/Mac/Home/Desktop/Verilog/Lab 1/hello_world.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hello_world
+
+Top level modules:
+	hello_world
+
+} {} {}}
